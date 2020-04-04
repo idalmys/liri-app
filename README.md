@@ -3,17 +3,17 @@ Liri is an application in node.js that executes defined command lines and return
 
 # How can I execute this app?
 The user must execute one of the 4 commands defined:
-* concert-this <artist/band name here>
+* concert-this  <artist/band name here>
 
-* spotify-this-song <song name here>
+* spotify-this-song  '<song name here>'
  
-* movie-this <movie name here>
+* movie-this '<movie name here>'
  
-* do-what-it-says <read data from random.txt>
+* do-what-it-says '<read data from random.txt>'
  
 # Example
 
- node liri.js <command line > <search value>
+ node liri.js '<command line >' '<search value>'
 
 # The information is obtained from : 
  * Spotify API
