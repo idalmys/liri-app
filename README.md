@@ -7,7 +7,8 @@ The user must execute one of the 4 commands defined:
 * spotify-this-song <song name here>
 * movie-this <movie name here>
 * do-what-it-says <read data from random.txt>
- 
+# Example
+ node liri.js <command line > <search value>
 
 # The information is obtained from : 
  * Spotify API
