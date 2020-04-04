@@ -1,0 +1,1112 @@
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: Auditorio Starlite
+ Location: Marbella
+ Date of the event: 08-26-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: Coca-Cola Music Hall
+ Location: San Juan
+ Date of the event: 10-01-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: Ritz Theatre
+ Location: Elizabeth
+ Date of the event: 10-03-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: The Wiltern
+ Location: Los Angeles
+ Date of the event: 10-08-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: House of Blues Orlando
+ Location: Lake Buena Vista
+ Date of the event: 10-11-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: tennis
+ Name of the venue: Islington Assembly Hall
+ Location: London
+ Date of the event: 06-11-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hallenstadion
+ Location: Zürich
+ Date of the event: 06-02-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hallenstadion
+ Location: Zürich
+ Date of the event: 06-03-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: ARENA ZAGREB
+ Location: Zagreb
+ Date of the event: 06-05-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Papp Laszlo Arena
+ Location: Budapest
+ Date of the event: 06-07-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Ziggo Dome
+ Location: Amsterdam Zuidoost
+ Date of the event: 06-10-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Ziggo Dome
+ Location: Amsterdam Zuidoost
+ Date of the event: 06-12-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Ziggo Dome
+ Location: Amsterdam Zuidoost
+ Date of the event: 06-13-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Wiener Stadthalle - Halle D
+ Location: Vienna
+ Date of the event: 06-15-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Olympiahalle
+ Location: Munich
+ Date of the event: 06-17-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: SAP Arena
+ Location: Mannheim
+ Date of the event: 06-19-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Lanxess Arena
+ Location: Cologne
+ Date of the event: 06-21-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Barclaycard Arena Hamburg
+ Location: Hamburg
+ Date of the event: 06-22-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 06-26-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 06-27-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 06-30-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 07-01-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 07-03-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 07-04-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Site De Kerampuil A Carhaix
+ Location: Carhaix-plouguer
+ Date of the event: 07-16-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Plaine De L'asse
+ Location: Noyon
+ Date of the event: 07-20-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Waldbühne Berlin
+ Location: Berlin
+ Date of the event: 07-22-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Mura di Lucca - Viale Carducci
+ Location: Lucca
+ Date of the event: 07-25-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: National Stadium Bukarest
+ Location: Bucharest
+ Date of the event: 07-29-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hartwall Arena
+ Location: Helsinki
+ Date of the event: 08-24-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hartwall Arena
+ Location: Helsinki
+ Date of the event: 08-25-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Telenor Arena
+ Location: Oslo
+ Date of the event: 08-28-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Telenor Arena
+ Location: Oslo
+ Date of the event: 08-29-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Royal Arena
+ Location: Copenhagen
+ Date of the event: 08-31-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Royal Arena
+ Location: Copenhagen
+ Date of the event: 09-01-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Manchester Arena
+ Location: Manchester
+ Date of the event: 09-04-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Manchester Arena
+ Location: Manchester
+ Date of the event: 09-05-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Arena Birmingham
+ Location: Birmingham
+ Date of the event: 09-08-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Arena Birmingham
+ Location: Birmingham
+ Date of the event: 09-09-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: SSE Hydro
+ Location: Glasgow
+ Date of the event: 09-11-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: SSE Hydro
+ Location: Glasgow
+ Date of the event: 09-12-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: 3Arena
+ Location: Dublin
+ Date of the event: 09-14-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: 3Arena
+ Location: Dublin
+ Date of the event: 09-15-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: The O2
+ Location: London
+ Date of the event: 09-17-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: The O2
+ Location: London
+ Date of the event: 09-18-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Capital One Arena
+ Location: Washington
+ Date of the event: 11-16-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PPG Paints Arena
+ Location: Pittsburgh
+ Date of the event: 11-18-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: Auditorio Starlite
+ Location: Marbella
+ Date of the event: 08-26-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: Coca-Cola Music Hall
+ Location: San Juan
+ Date of the event: 10-01-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: Ritz Theatre
+ Location: Elizabeth
+ Date of the event: 10-03-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: The Wiltern
+ Location: Los Angeles
+ Date of the event: 10-08-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: melendi
+ Name of the venue: House of Blues Orlando
+ Location: Lake Buena Vista
+ Date of the event: 10-11-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hallenstadion
+ Location: Zürich
+ Date of the event: 06-02-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hallenstadion
+ Location: Zürich
+ Date of the event: 06-03-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: ARENA ZAGREB
+ Location: Zagreb
+ Date of the event: 06-05-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Papp Laszlo Arena
+ Location: Budapest
+ Date of the event: 06-07-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Ziggo Dome
+ Location: Amsterdam Zuidoost
+ Date of the event: 06-10-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Ziggo Dome
+ Location: Amsterdam Zuidoost
+ Date of the event: 06-12-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Ziggo Dome
+ Location: Amsterdam Zuidoost
+ Date of the event: 06-13-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Wiener Stadthalle - Halle D
+ Location: Vienna
+ Date of the event: 06-15-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Olympiahalle
+ Location: Munich
+ Date of the event: 06-17-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: SAP Arena
+ Location: Mannheim
+ Date of the event: 06-19-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Lanxess Arena
+ Location: Cologne
+ Date of the event: 06-21-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Barclaycard Arena Hamburg
+ Location: Hamburg
+ Date of the event: 06-22-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 06-26-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 06-27-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 06-30-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 07-01-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 07-03-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PARIS LA DEFENSE ARENA
+ Location: Nanterre
+ Date of the event: 07-04-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Site De Kerampuil A Carhaix
+ Location: Carhaix-plouguer
+ Date of the event: 07-16-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Plaine De L'asse
+ Location: Noyon
+ Date of the event: 07-20-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Waldbühne Berlin
+ Location: Berlin
+ Date of the event: 07-22-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Mura di Lucca - Viale Carducci
+ Location: Lucca
+ Date of the event: 07-25-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: National Stadium Bukarest
+ Location: Bucharest
+ Date of the event: 07-29-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hartwall Arena
+ Location: Helsinki
+ Date of the event: 08-24-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Hartwall Arena
+ Location: Helsinki
+ Date of the event: 08-25-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Telenor Arena
+ Location: Oslo
+ Date of the event: 08-28-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Telenor Arena
+ Location: Oslo
+ Date of the event: 08-29-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Royal Arena
+ Location: Copenhagen
+ Date of the event: 08-31-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Royal Arena
+ Location: Copenhagen
+ Date of the event: 09-01-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Manchester Arena
+ Location: Manchester
+ Date of the event: 09-04-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Manchester Arena
+ Location: Manchester
+ Date of the event: 09-05-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Arena Birmingham
+ Location: Birmingham
+ Date of the event: 09-08-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Arena Birmingham
+ Location: Birmingham
+ Date of the event: 09-09-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: SSE Hydro
+ Location: Glasgow
+ Date of the event: 09-11-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: SSE Hydro
+ Location: Glasgow
+ Date of the event: 09-12-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: 3Arena
+ Location: Dublin
+ Date of the event: 09-14-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: 3Arena
+ Location: Dublin
+ Date of the event: 09-15-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: The O2
+ Location: London
+ Date of the event: 09-17-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: The O2
+ Location: London
+ Date of the event: 09-18-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: Capital One Arena
+ Location: Washington
+ Date of the event: 11-16-2020
+
+.......End Artist/band's Data.............
+
+.......Artist/Band's Data.............
+
+ Artist or Band: celine dion
+ Name of the venue: PPG Paints Arena
+ Location: Pittsburgh
+ Date of the event: 11-18-2020
+
+.......End Artist/band's Data.............
+
+.......Movie's Data.............
+
+ Title: Mr. Nobody
+ Year :2009
+ IMDB rating: 7.8/10
+ Rotten tomatoes rating: 67%
+ Country: Belgium, Germany, Canada, France, UK, Luxembourg
+ Language: English, Mohawk
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+.......End Movie's Data.............
+
+.......Movie's Data.............
+
+ Title: Hustlers
+ Year :2019
+ IMDB rating: 6.3/10
+ Rotten tomatoes rating: 87%
+ Country: USA
+ Language: English, Spanish, Russian
+ Plot: Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
+ Actors: Constance Wu, Jennifer Lopez, Julia Stiles, Mette Towley
+
+.......End Movie's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Karaoke Box
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0jQYAjEb8atbTeLcnuGJTR
+ Album's name: Karaoke Box: Reggae Greatest Hits
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Alta Marea
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6c0TIiZFdt3dgL1lXqvyJC
+ Album's name: Basi Musicali Hits Vol.8 (Backing Tracks Altamarea)
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : The Karaoke Crew
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/43iNM4P9RH071kHJXwcU7M
+ Album's name: Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Ace of Base
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+ Album's name: The Sign
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Killswitch Engage
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/5kP32cKaf8ln4PSoY6sD13
+ Album's name: Atonement
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Black Sabbath
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6cIYFiz47Hrws4hZ64FCAQ
+ Album's name: Mob Rules (2008 Remaster)
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Ace of Base
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+ Album's name: The Sign
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Killswitch Engage
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/5kP32cKaf8ln4PSoY6sD13
+ Album's name: Atonement
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Black Sabbath
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6cIYFiz47Hrws4hZ64FCAQ
+ Album's name: Mob Rules (2008 Remaster)
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Jennifer Lopez
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/2SpfMQ5TuKsMj1trNwrLVA
+ Album's name: El Anillo
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Jennifer Lopez
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/3wyMqxd4rILBpYlpQRQ58h
+ Album's name: El Anillo (Remix)
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Rumba Caliente
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/1ouZ1hk25Fd7iSqR0w6pTy
+ Album's name: Rumba Caliente Cd #1
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Ace of Base
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+ Album's name: The Sign
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Killswitch Engage
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/5kP32cKaf8ln4PSoY6sD13
+ Album's name: Atonement
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Black Sabbath
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6cIYFiz47Hrws4hZ64FCAQ
+ Album's name: Mob Rules (2008 Remaster)
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Backstreet Boys
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+ Album's name: The Hits--Chapter One
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Mick Jensen
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd
+ Album's name: I Want It That Way
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Anthem Lights
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+ Album's name: Covers Part IV
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Ace of Base
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+ Album's name: The Sign
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Killswitch Engage
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/5kP32cKaf8ln4PSoY6sD13
+ Album's name: Atonement
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Black Sabbath
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6cIYFiz47Hrws4hZ64FCAQ
+ Album's name: Mob Rules (2008 Remaster)
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Ariana Grande
+ Song's name: thank u, next
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/3e9HZxeyfWwjeyPAMmWSSQ
+ Album's name: thank u, next
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Quadeca
+ Song's name: Thank You Next
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/5HFLGK5MCPAyLMdZrDWgsI
+ Album's name: Voice Memos
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : First to Eleven
+ Song's name: Thank You, Next
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/4NrHg2d7uobpjFTAlHxANg
+ Album's name: Covers, Vol. 3
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Ace of Base
+ Song's name: The Sign
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+ Album's name: The Sign
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Black Sabbath
+ Song's name: The Sign of the Southern Cross - 2008 Remaster
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6cIYFiz47Hrws4hZ64FCAQ
+ Album's name: Mob Rules (2008 Remaster)
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Killswitch Engage
+ Song's name: The Signal Fire
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/5kP32cKaf8ln4PSoY6sD13
+ Album's name: Atonement
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Ace of Base
+ Song's name: The Sign
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+ Album's name: The Sign
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Killswitch Engage
+ Song's name: The Signal Fire
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/5kP32cKaf8ln4PSoY6sD13
+ Album's name: Atonement
+
+.......End Song's Data.............
+
+.......Song's Data.............
+
+ Artist(s) : Black Sabbath
+ Song's name: The Sign of the Southern Cross - 2008 Remaster
+ Preview link (Spotify): https://api.spotify.com/v1/tracks/6cIYFiz47Hrws4hZ64FCAQ
+ Album's name: Mob Rules (2008 Remaster)
+
+.......End Song's Data.............

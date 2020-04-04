@@ -1,0 +1,26 @@
+{
+  "name": "liri-app",
+  "version": "1.0.0",
+  "description": "Liri is an application in node.js that executes defined command lines and returns valuable information.Include an .env file with ID and secret ID. If you gonna run this app you must to create your own .env file.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idalmys/liri-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idalmys/liri-app/issues"
+  },
+  "homepage": "https://github.com/idalmys/liri-app#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
