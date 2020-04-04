@@ -18,10 +18,10 @@ switch (command) {
         break;
 
     case "spotify-this-song":
-        GetSong();
+        GetSong(search);
         break;
     case "movie-this":
-        GetMovie();
+        GetMovie(search);
         break;
     case "do-what-it-says":
         GetRandom(search);
@@ -29,7 +29,7 @@ switch (command) {
     }
 }
 
-function GetMovie(){
+function GetMovie(search){
     if(!search ){
         search= " Mr Nobody";
     }
@@ -68,7 +68,7 @@ function GetMovie(){
 }
 
 
-function GetSong(){
+function GetSong(search){
 
     if(!search){
         search="The Sign";
