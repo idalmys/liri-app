@@ -13,7 +13,7 @@ The user must execute one of the 4 commands defined:
  
 # Example
 
- node liri.js '<command line >' '<search value>'
+ node liri.js concert-this  melendi
 
 # The information is obtained from : 
  * Spotify API
