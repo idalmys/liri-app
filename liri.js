@@ -14,7 +14,7 @@ function liri(command,search){
 
 switch (command) {
     case "concert-this":
-        GetConcert();
+        GetConcert(search);
         break;
 
     case "spotify-this-song":
@@ -100,7 +100,7 @@ function GetSong(search){
     console.log(err);
     });
 }
-function GetConcert(){
+function GetConcert(search){
    
     
     var QueryUrl="https://rest.bandsintown.com/artists/"+ search +"/events?app_id=codingbootcamp"
@@ -141,7 +141,7 @@ function GetRandom(search){
     command=dataArr[0];
     search=dataArr[1];
     
-    liri(dataArr[0],dataArr[1]);
+    liri(command,search);
   
   });
 }
