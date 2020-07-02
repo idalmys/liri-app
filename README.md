@@ -17,7 +17,6 @@ The user must execute one of the 4 commands defined:
  
 * do-what-it-says '<read data from random.txt>'
  
-  ![liri ](random.txt)
  
 # Example
 
