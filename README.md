@@ -4,13 +4,20 @@ Liri is an application in node.js that executes defined command lines and return
 # How can I execute this app?
 The user must execute one of the 4 commands defined:
 * concert-this  <artist/band name here>
+
 ![liri ](concert-this-melendi1.png)
 
 * spotify-this-song    <song name here>
  
+ ![liri ](spotify-this-song-el-anillo.png)
+ 
 * movie-this   <movie name here>
  
+  ![liri ](movie-this-hustlers.png)
+ 
 * do-what-it-says '<read data from random.txt>'
+ 
+  ![liri ](random.txt)
  
 # Example
 
